@@ -8,4 +8,3 @@ Funcionalidade: Recuperação de senha no Alelo Pod
     E clica no botão "Enviar"
     Então o usuário recebe um email com as instruções para recuperar sua senha
     E é exibida uma mensagem de confirmação na tela
-Jgs@13042023
